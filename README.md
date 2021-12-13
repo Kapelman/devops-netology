@@ -48,3 +48,4 @@ override.tf.json
 .terraformrc
 terraform.rc
 
+New_line for Задание №3 – Ветки
